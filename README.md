@@ -1,2 +1,2 @@
 # fakecraft
-a survival game
+a survival game the game is coming soon
